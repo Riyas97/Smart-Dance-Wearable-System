@@ -115,9 +115,14 @@ to.
 coaches can view their overall statistics for the dance exercises.
 Use case ends
 
+![](./imgs/img1.PNG)
+
 ## Overall System Architecture
 
+![](./imgs/img2.PNG)
+
 ## Final Form of the System
+![](./imgs/img3.PNG)
 
 ## Brief Summary of the algorithms
 ### Algorithm To Classify Dance Moves
